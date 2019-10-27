@@ -1,5 +1,6 @@
 # Optimizacion-Estacion-Gases-educaCont
-Firmware de la Estacion Calidad Aire EducaCont Corregido por INOPYA
+
+#Firmware de la Estacion Calidad Aire EducaCont Corregido por INOPYA
 
   Correccion del firmware de la Estacion de medicion de calidad del aire  del Proyecto EducaCont 
   para la optimizacion de  uso de memoria SRAM, solventando asi la imposibilidad de añadir nuevos sensores 
