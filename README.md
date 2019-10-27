@@ -8,6 +8,7 @@ Firmware de la Estacion Calidad Aire EducaCont Corregido por INOPYA
   Puede consultarse el codigo original (con sus defectillos) en:
   * https://sites.google.com/view/educacont/documentaci%C3%B3n/firmwares
   * https://drive.google.com/file/d/1D3JPS6QPwnk5GonNRx_Yl9s7XHZ3LTxn/view?usp=drive_web
+  
   Tambien podeis econtrar una copia de dicho firmware sin modificaciones en este repositorio.
 
   Se ha optimizado el codigo para corregir dichos problemas derivados de la mala gestion de memoria 
