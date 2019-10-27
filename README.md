@@ -11,8 +11,8 @@ Firmware de la Estacion Calidad Aire EducaCont Corregido por INOPYA
   
   Tambien podeis econtrar una copia de dicho firmware sin modificaciones en este repositorio.
 
-  Se ha optimizado el codigo para corregir dichos problemas derivados de la mala gestion de memoria 
-  y añadido el sensor de presion BMP180 a modo de ejemplo.
+  Una vez optimizado el codigo para corregir los problemas derivados de esa mala gestion de memoria, 
+  se ha añadido el sensor de presion BMP180 a modo de ejemplo.
   
   Con solo usar la macro F() para el compilador, liberamos 671 bytes en cadenas de texto.
   Podemos asi mismo, aligerar tambien el uso de memoria Flash si condicionamos dichas cadenas de texto con
