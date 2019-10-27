@@ -4,9 +4,9 @@
 
   Correccion del firmware de la Estacion de medicion de calidad del aire  del Proyecto EducaCont 
   para la optimizacion de  uso de memoria SRAM, solventando asi la imposibilidad de añadir nuevos sensores 
-  y el adecuado aprovechamiento del kit de expansion que se puede adquirir para dicha estacion.
+  y permitiendo asi el adecuado aprovechamiento del kit de expansion que se puede adquirir para dicha estación.
   
-  Puede consultarse el codigo original (con sus defectillos) en:
+  Puede consultarse el código original (con sus defectillos) en:
   * https://sites.google.com/view/educacont/documentaci%C3%B3n/firmwares
   * https://drive.google.com/file/d/1D3JPS6QPwnk5GonNRx_Yl9s7XHZ3LTxn/view?usp=drive_web
   
